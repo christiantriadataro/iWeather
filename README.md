@@ -1,7 +1,7 @@
 # iWeather
-## polishing git best practices and react setups 
+## polishing git best practices and react setups
 ## steps:
-### step 1: git init 
+### step 1: git init
 ### step 2: commit and setup repo DONE
 ### step 3: create a branch "initial commit" DONE
 ### step 4: commit and push it to the branch  DONE
