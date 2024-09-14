@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui/button"
+import Label from "@/components/figma-ui/Label.tsx";
 
 export default function App() {
     return (
         <div>
-            <Button>Click me</Button>
+            <Label typography="heading-hg">Sample</Label>
         </div>
     )
 }
